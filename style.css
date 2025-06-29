@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+main {
+    background-color: darkgoldenrod;
+}
+h1 {
+    background-color: burlywood;
+}
+h2 {
+    background-color: burlywood;
+}
+nav a {
+    border:4px solid rgb(235, 97, 97) ;
+    padding:5px ;
+    border-radius:10px ;
+    background-color: darkgoldenrod;
+    text-decoration:none;
+    color: pink;
+}
+a{
+    margin:15px;
+}
+img {
+    width: 175px;
+    height: 175px;
+    margin: 8px;
+    border: 5px solid black ;
+}
